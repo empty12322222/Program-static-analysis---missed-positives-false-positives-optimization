@@ -1,0 +1,3 @@
+[1;35m	 Global Reach,Carry out further judgment :[1;0m dereference at : (CallICFGNode: { "ln": 10, "cl": 28, "fl": "2.cpp" })
+[1;35m	 Global Reach,Carry out further judgment :[1;0m dereference at : (CallICFGNode: { "ln": 26, "cl": 28, "fl": "2.cpp" })
+[1;35m	 kkkkkk Reach,Carry out further judgment :[1;0m dereference at : (CallICFGNode: { "ln": 23, "cl": 28, "fl": "3.cpp" })
